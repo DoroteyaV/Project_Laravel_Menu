@@ -1,2 +1,2 @@
-# Project_Laravel_Menu
+# project_menu
 Restaurant menu
